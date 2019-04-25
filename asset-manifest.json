@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dashjs-multitrack-control/static/css/main.584f321a.chunk.css",
+    "main.js": "/dashjs-multitrack-control/static/js/main.1b919b27.chunk.js",
+    "main.js.map": "/dashjs-multitrack-control/static/js/main.1b919b27.chunk.js.map",
+    "runtime~main.js": "/dashjs-multitrack-control/static/js/runtime~main.fb60e09d.js",
+    "runtime~main.js.map": "/dashjs-multitrack-control/static/js/runtime~main.fb60e09d.js.map",
+    "static/js/2.45ba0d38.chunk.js": "/dashjs-multitrack-control/static/js/2.45ba0d38.chunk.js",
+    "static/js/2.45ba0d38.chunk.js.map": "/dashjs-multitrack-control/static/js/2.45ba0d38.chunk.js.map",
+    "index.html": "/dashjs-multitrack-control/index.html",
+    "precache-manifest.a3fe08ce1e8ab078f13b24eb9f274926.js": "/dashjs-multitrack-control/precache-manifest.a3fe08ce1e8ab078f13b24eb9f274926.js",
+    "service-worker.js": "/dashjs-multitrack-control/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/dashjs-multitrack-control/static/css/main.584f321a.chunk.css.map"
+  }
+}
