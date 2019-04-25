@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/dashjs-multitrack-control/precache-manifest.a3fe08ce1e8ab078f13b24eb9f274926.js"
+  "/dashjs-multitrack-control/precache-manifest.92bf4244f33e7b45ffbd52880c55ad66.js"
 );
 
 self.addEventListener('message', (event) => {

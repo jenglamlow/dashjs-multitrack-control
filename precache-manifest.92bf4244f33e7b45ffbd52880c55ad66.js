@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd79ad454c3713b9467358fdc726b221",
+    "revision": "a7c20b1d707325fa48660f34a8adf79f",
     "url": "/dashjs-multitrack-control/index.html"
   },
   {
-    "revision": "c29efa85327492d4d61a",
+    "revision": "c23cc52bd14ad9a8862c",
     "url": "/dashjs-multitrack-control/static/css/main.584f321a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dashjs-multitrack-control/static/js/2.45ba0d38.chunk.js"
   },
   {
-    "revision": "c29efa85327492d4d61a",
-    "url": "/dashjs-multitrack-control/static/js/main.1b919b27.chunk.js"
+    "revision": "c23cc52bd14ad9a8862c",
+    "url": "/dashjs-multitrack-control/static/js/main.3d56753a.chunk.js"
   },
   {
     "revision": "cc2d3daa9972ec04e4e2",
