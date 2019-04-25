@@ -18,8 +18,8 @@ export const Video = () => {
 
   const onStreamInitialized = (e) => {
     if (!init) {
-      // Init surround 5.1
-      player.setCurrentTrack(player.getTracksFor('audio')[2]);
+      // Init with Stereo
+      player.setCurrentTrack(player.getTracksFor('audio')[0]);
       init = true;
     }
   }
